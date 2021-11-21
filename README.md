@@ -1,6 +1,3 @@
-![](icons/silly.png)
-
-#
 # Not a Bomb™
 
 
