@@ -1,0 +1,15 @@
+.bomb-container {
+    background-color: #2e2e2e;
+    min-height: 100px;
+    min-width: 200px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 40px;
+}
+
+#bomb-disabled {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
